@@ -1,0 +1,13 @@
+body {
+  background-color: #b7bbf3;
+}
+
+.title {
+  font-family: sans-serif;
+  font-size: 100px;
+  font-weight: bolder;
+  font-variant: small-caps;
+  color: #823956;
+  text-align: center;
+  width: 100%;
+}
