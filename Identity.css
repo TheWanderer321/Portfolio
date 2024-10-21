@@ -13,10 +13,12 @@ body {
 }
 
 .belonging {
-  height: 80vh;
+  width: 60%;
+  height: auto;
   margin-right: 10px;
 }
 
 .digital_identity {
-  height: 80vh;
+  width: 30%;
+  height: auto;
 }
