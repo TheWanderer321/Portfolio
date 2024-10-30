@@ -9,22 +9,16 @@ body {
   font-variant: small-caps;
   color: #823956;
   text-align: center;
-  margin: auto;
+  width: 100%;
 }
 
 .belonging {
+  width: 60%;
+  height: auto;
   margin-right: 10px;
 }
 
-.imgContainer {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.imgContainer img {
-  height: 80vh;
-  width: auto;
-  flex-wrap: wrap;
+.digital_identity {
+  width: 30%;
+  height: auto;
 }
