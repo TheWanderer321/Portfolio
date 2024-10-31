@@ -9,5 +9,18 @@ body {
   font-variant: small-caps;
   color: #823956;
   text-align: center;
-  width: 100%;
+  margin: auto;
+}
+
+.background {
+  display: flex;
+  justify-content: center;
+}
+
+.belonging {
+  width: 60%;
+}
+
+.digital {
+  width: 30%;
 }
