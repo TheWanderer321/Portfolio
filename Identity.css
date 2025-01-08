@@ -9,16 +9,18 @@ body {
   font-variant: small-caps;
   color: #823956;
   text-align: center;
-  width: 100%;
+  margin: auto;
+}
+
+.background {
+  display: flex;
+  justify-content: center;
 }
 
 .belonging {
-  width: 100%;
-  height: auto;
-  margin-right: 10px;
+  width: 60%;
 }
 
-.digital_identity {
-  width: 100%;
-  height: auto;
+.digital {
+  width: 30%;
 }
